@@ -1,1 +1,1 @@
-Git for dummies
+*Editing for this time only
